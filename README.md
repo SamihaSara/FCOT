@@ -1,5 +1,5 @@
 # FCOT
-![fcot](https://github.com/iiau-tracker/SPLT/blob/master/results/SPLT.png)
+![fcot](https://github.com/MCG-NJU/FCOT/blob/master/images/architecture.pdf)
 PyTorch implementation of [Fully Convolutional Online Tracking](https://arxiv.org/abs/2004.07109).
 
 

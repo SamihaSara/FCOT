@@ -1,5 +1,5 @@
 # Fully Convolutional Online Tracking
-PyTorch implementation of [Fully Convolutional Online Tracking](https://arxiv.org/abs/2004.07109).
+PyTorch implementation of [Fully Convolutional Online Tracking](https://arxiv.org/abs/2004.07109).  
 ![fcot](https://github.com/MCG-NJU/FCOT/blob/master/images/architecture.png)
 
 ## Raw Results

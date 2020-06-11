@@ -10,7 +10,6 @@ The raw experimental results on **VOT2018**, **GOT-10k**, **TrackingNet**, **LaS
 ## Code and models will be released soon...
 
 ## Citation
-If you find this code is useful in your research, please cite:
 
 ```bibtex
 @InProceedings{fcot2020,

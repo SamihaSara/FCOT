@@ -1,4 +1,4 @@
-# FCOT
+# Fully Convolutional Online Tracking
 ![fcot](https://github.com/MCG-NJU/FCOT/blob/master/images/architecture.png)
 PyTorch implementation of [Fully Convolutional Online Tracking](https://arxiv.org/abs/2004.07109).
 
